@@ -1,0 +1,8 @@
+*~
+.DS_Store
+.vscode
+.idea
+target
+.metals
+metals.sbt
+.bsp

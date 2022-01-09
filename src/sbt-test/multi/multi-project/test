@@ -1,0 +1,4 @@
+> show composeFile
+> dockerComposeUp
+> dockerComposeInstances
+> dockerComposeDown
